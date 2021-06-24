@@ -23,7 +23,10 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="instagram Daniel Henrique" width="40px" heigth="30" max-width="100%"/>
 </a>
 
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhenrik)](https://github.com/danielhenrik/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhenrik&show_icons=true)](https://github.com/danielhenrik/github-readme-stats)
 
 
 <!---
