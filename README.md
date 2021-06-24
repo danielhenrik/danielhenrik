@@ -3,7 +3,7 @@
   I’m interested in Front End Development 💻 <br>
   I currently work in the technical support area. :man_technologist:
 
-##  I’m currently learning 
+## :books: I’m currently learning 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="logo html" width="40px" heigth="30" max-width="100%"/>
 
